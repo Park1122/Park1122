@@ -18,6 +18,7 @@ I'm backend developer.
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/></a>
 
+***
 📫 Contact   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-ea4335?style=flat&logo=Gmail&logoColor=white&link=mailto:cco2416@gmail.com)](mailto:cco2416@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:cco2416@naver.com)](mailto:cco2416@naver.com)
