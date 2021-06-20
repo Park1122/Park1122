@@ -5,6 +5,8 @@ I'm backend developer.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cco2416)](https://solved.ac/cco2416/)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cco2416&color=dark)](https://velog.io/@cco2416)
+
 ### 🛠 Tech Stack 🛠   
 #### Backend
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
@@ -25,3 +27,7 @@ I'm backend developer.
 #### 📫 Contact   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-ea4335?style=flat&logo=Gmail&logoColor=white&link=mailto:cco2416@gmail.com)](mailto:cco2416@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:cco2416@naver.com)](mailto:cco2416@naver.com)
+
+***
+#### Blog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=cco2416)](https://velog.io/@cco2416)
