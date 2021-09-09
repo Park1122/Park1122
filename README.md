@@ -1,8 +1,6 @@
 <h1>Hi there 👋</h1>
 <p>I'm backend developer.</p>
 
-<br>
-
 <h2>Cards</h2>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -18,8 +16,6 @@
     <img alt="velog post" src="https://velog-readme-stats.vercel.app/api?name=cco2416&color=dark" />
   </a>
 </p>
-
-<br>
 
 <h2>🛠 Tech Stack 🛠</h2>
 
