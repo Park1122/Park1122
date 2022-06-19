@@ -1,7 +1,7 @@
 <h1>Hi there 👋</h1>
 <p>I'm backend developer.</p>
 
-<h2>🛠 Tech Stack 🛠</h2>
+<h2>Tech Stack</h2>
 
 <h3>Backend</h3>
 <p>
