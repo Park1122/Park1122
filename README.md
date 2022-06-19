@@ -7,10 +7,12 @@
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/></a>
 </p>
 
 <h3>Database</h3>
 <p>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat-square&logo=Microsoft-Access&logoColor=white"/></a>
@@ -23,6 +25,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Jira_Software-0052CC?style=flat-square&logo=Jira-Software&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/></a>
 </p>
 
 <h2>Portfolio</h2>
@@ -50,7 +53,7 @@
 
 <h2>Contacts</h2>
 <a href="mailto:cco2416@gmail.com">
-  <img alt="cco2416@gmail.com" src="https://img.shields.io/badge/Gmail-ea4335?style=flat-sqaure&logo=Gmail&logoColor=white&link=mailto:cco2416@gmail.com" />
+  <img alt="cco2416@gmail.com" src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cco2416@gmail.com" />
 </a>
 <a href="mailto:cco2416@naver.com">
   <img alt="cco2416@gmail.com" src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:cco2416@naver.com" />
