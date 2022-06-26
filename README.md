@@ -52,11 +52,11 @@
 </p>
 
 <h2>Contacts</h2>
-<a href="mailto:cco2416@gmail.com">
-  <img alt="cco2416@gmail.com" src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cco2416@gmail.com" />
-</a>
 <a href="mailto:cco2416@naver.com">
   <img alt="cco2416@gmail.com" src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:cco2416@naver.com" />
+</a>
+<a href="mailto:cco2416@gmail.com">
+  <img alt="cco2416@gmail.com" src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cco2416@gmail.com" />
 </a>
 
 <h2>Blog</h2>
