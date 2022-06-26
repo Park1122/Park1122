@@ -21,7 +21,7 @@
 <h3>Etc</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Jira_Software-0052CC?style=flat-square&logo=Jira-Software&logoColor=white"/></a>
