@@ -38,16 +38,15 @@
 <h2>Cards</h2>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Park1122&hide=stars,contribs&show_icons=true&theme=jolly" />
+    <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Park1122&show_icons=true&theme=dark" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Park1122&layout=compact" />
-  </a>
-  <a href="https://solved.ac/cco2416/">
-    <img alt="solved-ac rank" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cco2416" />
-  </a>
+  <br/>
   <a href="https://velog.io/@cco2416">
     <img alt="velog post" src="https://velog-readme-stats.vercel.app/api?name=cco2416&color=dark" />
+  </a>
+  <br/>
+  <a href="https://solved.ac/cco2416/">
+    <img alt="solved-ac rank" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cco2416" />
   </a>
 </p>
 
