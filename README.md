@@ -45,9 +45,14 @@
     <img alt="velog post" src="https://velog-readme-stats.vercel.app/api?name=cco2416&color=dark" />
   </a>
   <br/>
+  
+  <!-- 백준 카드 주석 -->
+  <!-- 
   <a href="https://solved.ac/cco2416/">
     <img alt="solved-ac rank" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cco2416" />
   </a>
+  -->
+  
 </p>
 
 <h2>Contacts</h2>
