@@ -41,10 +41,6 @@
     <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Park1122&show_icons=true&theme=dark" />
   </a>
   <br/>
-  <a href="https://velog.io/@cco2416">
-    <img alt="velog post" src="https://velog-readme-stats.vercel.app/api?name=cco2416&color=dark" />
-  </a>
-  <br/>
   
   <!-- 백준 카드 주석 -->
   <!-- 
