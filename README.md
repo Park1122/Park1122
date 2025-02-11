@@ -30,7 +30,7 @@
 
 <h2>Portfolio</h2>
 <p>
-  <a href="https://lumbar-roarer-24a.notion.site/Shane-5f1e95a949654c35aae614692f9afb5e">
+  <a href="https://lumbar-roarer-24a.notion.site/51dd379440524c149895f40d69de0fb3">
     <img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
 </p>
