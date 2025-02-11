@@ -58,8 +58,9 @@
 <a href="mailto:cco2416@gmail.com">
   <img alt="cco2416@gmail.com" src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cco2416@gmail.com" />
 </a>
-
+<!-- 
 <h2>Blog</h2>
 <a href="https://velog.io/@cco2416">
   <img alt="cco2416's velog" src="https://velog-readme-stats.vercel.app/api/badge?name=cco2416" />
 </a>
+-->
